@@ -1,2 +1,2 @@
-# PMI_Donation_Manager_FE
+# DME
 Donation manager front end in react
